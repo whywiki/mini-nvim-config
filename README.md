@@ -1,10 +1,10 @@
 # nvim-docker
 
-Neovim config for a ROS2 Docker container.
+Neovim config for a Minimal {Docker, System}.
 
 ## Requirements
 
-Install these in your container before launching Neovim:
+Install these in your system before launching Neovim:
 
 ```bash
 sudo apt install -y git gcc g++ make clangd ripgrep
@@ -14,7 +14,7 @@ pip3 install pyright
 ## Installation
 
 ```bash
-git clone <your-repo-url> ~/.config/nvim
+git clone https://github.com/whywiki/mini-nvim-config.git ~/.config/nvim
 nvim
 ```
 

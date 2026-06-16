@@ -1,0 +1,2 @@
+# lazy.nvim lockfile (optional to commit, but noisy in docker)
+lazy-lock.json
